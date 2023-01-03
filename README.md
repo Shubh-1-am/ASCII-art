@@ -27,7 +27,7 @@ Just pipe in your image and see the magic!
 - Java JDK (tested with version 8 and above)
 - An image file in jpg, png, or gif format.
 
-## Additional features
+## Future Improvements
 
 - Add the option to save the ASCII art output to a file.
 - Improve the brightness to ASCII character mapping for better quality ASCII art.
